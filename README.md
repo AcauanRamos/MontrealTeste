@@ -15,7 +15,7 @@ Não pude usar o FireDAC, pois minha versão CE Community Edition não estava po
 Criei a estrutura simples (podia ser criada uma tabela de status).
 Campos: Id, Titulo, Descricao, Prioridade, Status, DataCriacao, DataConclusao.
 Índices em: Status, e DataConclusao (para as consultas já definidas).
-Os parâmetros de conexção estão no arquivo DB.ini (junto ao serviço).
+Os parâmetros de conexão estão no arquivo DB.ini (junto ao serviço).
 
 # Parte de negócio:
 O campo Status ficou aberto, pois não tínhamos um domínio específico. Logo, para cálculos foram consideradas as literais "PENDENTE" e "CONCLUIDA".
@@ -31,3 +31,7 @@ Carregamento parcial dos registros (paginação).
 Autenticação mais segura.
 Métodos para configurações do banco, neste caso deixei em no BD.ini junto ao serviço.
 
+Instruções para uso
+- Instalar o serviço TaskService.exe /install
+- Ajustar o BD.ini com os dados para conexão
+- Executar o cliente TarefasMontreal.exe
