@@ -2,3 +2,16 @@ Cliente/boss-lock.json
 Cliente/boss.json
 Servidor/boss-lock.json
 Servidor/boss.json
+*.dcu
+*.exe
+Cliente/TarefasMontreal.identcache
+Cliente/TarefasMontreal.res
+MontrealTeste.groupproj.local
+Servidor/TaskService.identcache
+Servidor/TaskService.res
+Cliente/TarefasMontreal.identcache
+MontrealTeste.groupproj.local
+Servidor/TaskService.identcache
+Cliente/TarefasMontreal.identcache
+MontrealTeste.groupproj.local
+Cliente/TarefasMontreal.identcache
