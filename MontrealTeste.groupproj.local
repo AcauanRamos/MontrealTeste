@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>2026/02/08 15:23:00.000.446,C:\_DELPHI\TestesDelphi\MontrealTeste\MontrealTeste.groupproj=C:\Users\acaua\OneDrive\Documentos\Embarcadero\Studio\Projects\ProjectGroup1.groupproj</Transaction>
+    <Transaction>2026/02/08 15:23:00.000.446,C:\Users\acaua\OneDrive\Documentos\Embarcadero\Studio\Projects\ProjectGroup1.groupproj=C:\_DELPHI\TestesDelphi\MontrealTeste\MontrealTeste.groupproj</Transaction>
   </Transactions>
 	<Default.Personality>
-		<Projects ActiveProject="C:\_DELPHI\TestesDelphi\MontrealTeste\MontrealTeste\Servidor\TaskService.dproj"/>
+		<Projects ActiveProject="C:\_DELPHI\TestesDelphi\MontrealTeste\Servidor\TaskService.dproj"/>
 	</Default.Personality>
 </BorlandProject>
