@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{0D274CF8-A7A0-434F-A1ED-72D9C99D0AB1}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="Servidor\TaskService.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Cliente\TarefasMontreal.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="TaskService">
+        <MSBuild Projects="Servidor\TaskService.dproj"/>
+    </Target>
+    <Target Name="TaskService:Clean">
+        <MSBuild Projects="Servidor\TaskService.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="TaskService:Make">
+        <MSBuild Projects="Servidor\TaskService.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="TarefasMontreal">
+        <MSBuild Projects="Cliente\TarefasMontreal.dproj"/>
+    </Target>
+    <Target Name="TarefasMontreal:Clean">
+        <MSBuild Projects="Cliente\TarefasMontreal.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="TarefasMontreal:Make">
+        <MSBuild Projects="Cliente\TarefasMontreal.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="TaskService;TarefasMontreal"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="TaskService:Clean;TarefasMontreal:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="TaskService:Make;TarefasMontreal:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

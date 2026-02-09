@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/12/17 16:17:36.000.475,=C:\Users\acaua\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/02/08 15:31:10.000.398,=C:\Users\acaua\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/02/08 15:31:21.000.084,C:\Users\acaua\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\acaua\OneDrive\Documentos\Embarcadero\Studio\Projects\uPrincipal.dfm</Transaction>
+    <Transaction>2026/02/08 15:31:21.000.084,C:\Users\acaua\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\acaua\OneDrive\Documentos\Embarcadero\Studio\Projects\uPrincipal.pas</Transaction>
+    <Transaction>2026/02/08 15:32:03.000.640,C:\Users\acaua\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\_DELPHI\TestesDelphi\MontrealTeste\Cliente\TarefasMontreal.dproj</Transaction>
+    <Transaction>2026/02/08 15:32:25.000.571,C:\Users\acaua\OneDrive\Documentos\Embarcadero\Studio\Projects\uPrincipal.pas=C:\_DELPHI\TestesDelphi\MontrealTeste\Cliente\uPrincipal.pas</Transaction>
+    <Transaction>2026/02/08 15:32:25.000.571,C:\Users\acaua\OneDrive\Documentos\Embarcadero\Studio\Projects\uPrincipal.dfm=C:\_DELPHI\TestesDelphi\MontrealTeste\Cliente\uPrincipal.dfm</Transaction>
+    <Transaction>2026/02/08 15:58:29.000.442,=C:\_DELPHI\TestesDelphi\MontrealTeste\model\uTask.pas</Transaction>
+    <Transaction>2026/02/08 16:26:02.000.978,=C:\_DELPHI\TestesDelphi\MontrealTeste\Cliente\Unit2.pas</Transaction>
+    <Transaction>2026/02/08 16:26:36.000.700,C:\_DELPHI\TestesDelphi\MontrealTeste\Cliente\Unit2.pas=C:\_DELPHI\TestesDelphi\MontrealTeste\Cliente\ufrmTask.pas</Transaction>
+    <Transaction>2026/02/08 16:26:36.000.700,C:\_DELPHI\TestesDelphi\MontrealTeste\Cliente\Unit2.dfm=C:\_DELPHI\TestesDelphi\MontrealTeste\Cliente\ufrmTask.dfm</Transaction>
+    <Transaction>2026/02/08 16:26:43.000.928,C:\_DELPHI\TestesDelphi\MontrealTeste\Cliente\uPrincipal.pas=C:\_DELPHI\TestesDelphi\MontrealTeste\Cliente\ufrmPrincipal.pas</Transaction>
+    <Transaction>2026/02/08 16:26:43.000.928,C:\_DELPHI\TestesDelphi\MontrealTeste\Cliente\uPrincipal.dfm=C:\_DELPHI\TestesDelphi\MontrealTeste\Cliente\ufrmPrincipal.dfm</Transaction>
+    <Transaction>2026/02/08 16:27:00.000.470,C:\_DELPHI\TestesDelphi\MontrealTeste\Cliente\ufrmPrincipal.dfm=C:\_DELPHI\TestesDelphi\MontrealTeste\Cliente\ufrmMain.dfm</Transaction>
+    <Transaction>2026/02/08 16:27:00.000.470,C:\_DELPHI\TestesDelphi\MontrealTeste\Cliente\ufrmPrincipal.pas=C:\_DELPHI\TestesDelphi\MontrealTeste\Cliente\ufrmMain.pas</Transaction>
+    <Transaction>2026/02/08 18:23:37.000.910,=C:\_DELPHI\TestesDelphi\MontrealTeste\Cliente\Unit1.pas</Transaction>
+    <Transaction>2026/02/08 18:23:59.000.656,C:\_DELPHI\TestesDelphi\MontrealTeste\Cliente\Unit1.pas=C:\_DELPHI\TestesDelphi\MontrealTeste\Comum\uConstants.pas</Transaction>
+    <Transaction>2026/02/08 23:46:44.000.796,=C:\_DELPHI\TestesDelphi\MontrealTeste\Cliente\Unit1.pas</Transaction>
+    <Transaction>2026/02/09 00:00:31.000.976,=C:\_DELPHI\TestesDelphi\MontrealTeste\Comum\uExceptionHelper.pas</Transaction>
+  </Transactions>
+</BorlandProject>
